@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hi! I'm Payson!
 
-You can use the [editor on GitHub](https://github.com/P-DennyGamingYT/pdenny.xyz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You may know me as P-Denny though. This is the official P-Denny website where you can find anything related to me here! If you want merch you can get it here and if you just want to see a sneek peek of some of the new videos, you can do it here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Latest Videos
 
-### Markdown
+[Thanks for 200 subscribers!](https://www.youtube.com/watch?v=qTBkQuOjFrU&t)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[We don't talk about Pyro](https://www.youtube.com/watch?v=n7gzincTaCg)
 
-```markdown
-Syntax highlighted code block
+[How to get a Fortnite Lobby Bot for FREE in Chapter 3](https://www.youtube.com/watch?v=UCnK6SO_lqI&t)
 
-# Header 1
-## Header 2
-### Header 3
+[Official Channel](https://youtube.com/P-Denny)
 
-- Bulleted
-- List
+## Credits
 
-1. Numbered
-2. List
+Made By Payson Holmes
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/P-DennyGamingYT/pdenny.xyz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&copy; 2022 - PDennSploit Softworks LLC
